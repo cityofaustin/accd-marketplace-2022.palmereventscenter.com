@@ -26,10 +26,6 @@ catering_manager:
   name: Kerry Craig
   email: kcraig@levyrestaurants.com
   phone: 5124044137
-it_coordinator:
-  name: Jeff Moore
-  email: jeff.moore@austintexas.gov
-  phone: 5124044033
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.4
 searchable: true
